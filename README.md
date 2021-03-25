@@ -18,8 +18,8 @@
 - I'm usually when  write Windows UI Program use C#.
 
 ### C++
-- I can write GPGPU program. so i love low-level programming. (love)
-
+- I can write GPGPU program. so i love low-level programming.
+- 
 ## Recent Interest
 ### JavaCPP
 - I contributed this project, but i want a know more about detail enhancement and issues.
