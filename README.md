@@ -6,20 +6,17 @@
 
 ## Language Skills
 ### CUDA
-- I love linear algebra and matrix, image-processing.
-- I can write many kind of matrix operation functions and i can write very well deep-learning inference optimized engine.
+- I wrote "Matrix Operation, Crop, Resize, Row/Cell Merge Algorithm, Resizer, Median Blur, Gauss Blur, Sobel, Affine, Projection, Matrix Inversion" on CUDA
 
-### Java
+### Java / C#
 - I really love IL languages.
 - Actually, i writen IL Language compiler and virtual machine.
-- Specially, i think java has good structure of virtual machine so i love java and kotlin. (i understand jvm structure and work mechanism.)
-
-### C#
+- I understand JVM and C# structure and work mechanism.
 - I'm usually when  write Windows UI Program use C#.
 
 ### C++
-- I can write GPGPU program. so i love low-level programming.
-- 
+- I can write GPGPU program. so i love low-level programming. (love)
+
 ## Recent Interest
 ### JavaCPP
 - I contributed this project, but i want a know more about detail enhancement and issues.
