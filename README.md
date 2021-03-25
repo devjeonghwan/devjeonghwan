@@ -16,7 +16,6 @@
 
 ### C#
 - I'm usually when  write Windows UI Program use C#.
-- I think C# has High performance and good programming philosophy. but it still not good than java.
 
 ### C++
 - I can write GPGPU program. so i love low-level programming. (love)
