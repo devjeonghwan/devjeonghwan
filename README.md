@@ -1,24 +1,58 @@
-<h1>Hi, I am Jeonghwan Park</h1>
+<h1 align="center" style="max-width: 100%;">
+  <a href="https://github.com/devjeonghwan"><img width="400px" alt="Jeonghwan Park" src="title.png" style="max-width: 100%;"></a>
+</h1>
+<p align="center" style="max-width: 100%;">
+  <a href="#"><img src="https://img.shields.io/badge/Name-Jeonghwan%20Park(%EB%B0%95%EC%A0%95%ED%99%98)-lightgrey?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Company-(%EC%A3%BC)%EB%A6%AC%EC%96%BC%ED%83%80%EC%9E%84%ED%85%8C%ED%81%AC-lightgrey?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gender-Male-lightgrey?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Age-22-lightgrey?style=flat-square"/></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-%EB%B0%95%EC%A0%95%ED%99%98%231865-lightgrey?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/KakaoTalk-defaultKakao-lightgrey?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mail-dev.parkjeonghwan@gmail.com-lightgrey?style=flat-square&logo=Google&logoColor=white"/></a>
+</p>
 
-<div align=center>
+## 1. Skills
+### 1.1. CUDA
+- #### Matrix Operations
+      Convolution, Inverse, etc..
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevjeonghwan&count_bg=%23AAAAAA&title_bg=%23646464&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+- #### Image Processing
+      Resize, Crop, Affine, Projection, etc..
 
-</div>
+- #### Deep-learning Inference
+      Optimize networks, Operator Implementation
 
-## Language Skills
-### CUDA
-- I wrote "Matrix Operation, Crop, Resize, Row/Cell Merge Algorithm, Resizer, Median Blur, Gauss Blur, Sobel, Affine, Projection, Matrix Inversion" on CUDA
+- #### Parallel Algorithms
+      Sort, Sum, etc..
 
-### Java / C#
-- I really love IL languages.
-- Actually, i writen IL Language compiler and virtual machine.
-- I understand JVM and C# structure and work mechanism.
-- I'm usually when  write Windows UI Program use C#.
+### 1.2. System Programming
+- #### Resource Management
+      Memory/File Manager, etc..
 
-### C++
-- I can write GPGPU program. so i love low-level programming. (love)
+- #### Concurrency Control
+      Lock Control, Lock-Free Data Structure, etc..
+      
+## 2. Languages
+- Java
+- JavaScript
+- C#
+- C++ / C
+- Basic
+- Python
 
-## Recent Interest
-### JavaCPP
-- I contributed this project, but i want a know more about detail enhancement and issues.
+## 3. Projects
+- ### Eyestream
+      Parallel Stream Image Processing Framework
+      
+- ### Kson
+      JSON Object Serializer, Deserializer
+      
+- ### Jara-HTTP
+      Pure Java HTTP/2.0 Server
+      
+- ### Jara
+      Web Server-Side Renderer
+      
+- ### FermesDB
+      File based OOP Database
