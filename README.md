@@ -1,6 +1,3 @@
-<h1 align="center" style="max-width: 100%;">
-  <a href="https://github.com/devjeonghwan"><img width="400px" alt="Jeonghwan Park" src="title.png" style="max-width: 100%;"></a>
-</h1>
 <p align="center" style="max-width: 100%;">
   <a href="#"><img src="https://img.shields.io/badge/Name-Jeonghwan%20Park(%EB%B0%95%EC%A0%95%ED%99%98)-lightgrey?style=flat-square"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Company-(%EC%A3%BC)%EB%A6%AC%EC%96%BC%ED%83%80%EC%9E%84%ED%85%8C%ED%81%AC-lightgrey?style=flat-square"/></a>
